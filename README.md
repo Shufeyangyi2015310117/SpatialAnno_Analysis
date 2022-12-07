@@ -27,7 +27,7 @@ Brief descriptions of real data analysis scripts (Real_data_analysis folder):
 
 **mouse_olfactory_bulb.R**: Annotation analysis for mouse olfactory bulb ST data
 
-**olfactory_bulb.R**: Annotation analysis for mouse olfactory bulb Slide-seqV2 data
+**hippocampus.R**: Annotation analysis for mouse olfactory bulb Slide-seqV2 data
 
 **mouse_embryo.R**: Annotation analysis for mouse_embryo seqFISH data
 
@@ -42,6 +42,6 @@ Brief descriptions of real data viualization  scripts:
 
 **mouse_olfactory_bulb_viualize.R**: Visualization for mouse olfactory bulb ST data
 
-**olfactory_bulb_viualize.R**:  Visualization for mouse olfactory bulb Slide-seqV2 data
+**hippocampus_viualize.R**:  Visualization for mouse olfactory bulb Slide-seqV2 data
 
 **mouse_embryo.R**: Visualization for mouse_embryo seqFISH data
