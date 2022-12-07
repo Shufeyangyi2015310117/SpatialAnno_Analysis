@@ -1,0 +1,3 @@
+load("/Users/yiyang/Desktop/2020-9-19/2022/Xingjie/Rpackage/SpatialAnno_Analysis/Simulation/simulated_datasets/simulated_Scenario2_0.1_example.RData")
+ls()
+acc_all3
