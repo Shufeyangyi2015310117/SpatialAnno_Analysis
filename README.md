@@ -2,6 +2,8 @@
 
 The analysis code of SpatialAnno are accessable on [code website](https://github.com/Shufeyangyi2015310117/SpatialAnno_Analysis)
 
+We leave emply the folders containing inputs and intermediate outputs due to the size limit. The whole files can be downloaded from [zenodo](https://zenodo.org/record/7408584#.Y5Bbpy2d7RY)
+
 ## Simulation 
 The simulated dataset examples were in ./Simulation/simulated_datasets folder.
 
