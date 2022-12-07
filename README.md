@@ -16,7 +16,7 @@ Brief descriptions of simulated scripts (./Simulation/Rcode folder):
 
 **simulated_Scenario3_ARI_(5,7,9,0.1,0.2,0.3).R**: Annotation analysis for Scenario III. Assess the capability of SpatialAnno to utilize high-dimensional non-marker genes in all settings by ARI.
 
-**simulated_Scenario3_Num_nonmarker_(60,100,500,1000,2000).R**: Annotation analysis for Scenario III. Assess the capability of SpatialAnno to utilize different numbers of non-marker genes.
+**simulated_Scenario3_Num_nonmarker_(60,100,500,1000,2000).R**: Annotation analysis for Scenario III. Assess the capability of SpatialAnno to utilize increasing numbers of non-marker genes.
 
 ## Real data analysis
 
