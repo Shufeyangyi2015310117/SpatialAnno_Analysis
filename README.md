@@ -25,7 +25,7 @@ Brief descriptions of real data analysis scripts (Real_data_analysis folder):
 
 **dorsolateral_prefrontal_cortex.R**: Annotation analysis for human dorsolateral prefrontal cortex Visium data
 
-**mouse_olfactory_bulb.R**: Annotation analysis for mouse olfactory bulb ST data
+**mouse_olfactory_bulb.R, mouse_olfactory_bulb_Mural_EC.R**: Annotation analysis for mouse olfactory bulb ST data
 
 **hippocampus.R**: Annotation analysis for mouse olfactory bulb Slide-seqV2 data
 
