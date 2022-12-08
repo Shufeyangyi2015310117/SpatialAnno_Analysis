@@ -29,7 +29,7 @@ Brief descriptions of real data analysis scripts (Real_data_analysis folder):
 
 **hippocampus.R**: Annotation analysis for mouse olfactory bulb Slide-seqV2 data
 
-**mouse_embryo.R**: Annotation analysis for mouse_embryo seqFISH data
+**mouse_embryo(1,2,3).R**: Annotation analysis for mouse_embryo seqFISH data
 
 
 
