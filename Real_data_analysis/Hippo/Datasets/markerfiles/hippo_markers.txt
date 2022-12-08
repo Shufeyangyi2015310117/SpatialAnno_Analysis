@@ -1,0 +1,63 @@
+>Entorhinal cortex
+expressed: Mef2c, Nrgn, Vsnl1, Snap25, Meg3
+
+>Ependymal
+expressed: Dbi, Ccdc153, Rarres2, Tmem212, Nnat
+
+>CA3 Principal cells
+expressed: Chgb, Hs3st4, Nptxr, Cpne4, Neurod6
+
+>Dentate hilum
+expressed: Calb2, Pde1a, Rab3c, Satb1, Ajap1
+
+>Subiculum
+expressed: Nov, Dcn, Gap43, Pou3f1, Pde1a
+
+>Interneuron
+expressed: Gad2, Gad1, Cnr1, Slc6a1, Nrxn3
+
+>CA1 Principal cells
+expressed: Wfs1, Fibcd1, Atp2b1, Itpka, Ppp3ca
+
+>Oligodendrocyte
+expressed: Plp1, Ptgds, Mbp, Mal, Mag
+
+>Astrocyte
+expressed: Apoe, Cst3, Aldoc, Mt1, Clu
+
+>Endothelial stalk
+expressed: Ly6c1, Bsg, Flt1, Itm2a, Ly6a
+
+>Endothelial tip
+expressed: Ptgds, Apod, Igf2, Igfbp2, Col1a2
+
+>Polydendrocyte_2
+expressed: Mbp, Sirt2, Plp1, Cnp, Mag
+
+>Polydendrocyte_1
+expressed: Olig1, Cacng4, Ptprz1, Marcks, Lhfpl3
+
+>Mural
+expressed: Acta2, Tpm1, Tpm2, Crip1, Tagln
+
+>Dentate Principal cells
+expressed: C1ql2, Ppp3ca, Fam163b, Olfm1, Ncdn
+
+>Neurogenesis (SGZ)
+expressed: Sox4, Tubb5, Sox11, Rps5, Rps9
+
+>TH
+expressed: Tac2, Rora, Slc17a7
+
+>Choroid
+expressed: Ttr, Enpp2, 1500015o10rik, Prlr, Igfbp2
+
+>Cajal_Retzius
+expressed: Pcp4, Ndnf, Ramp1, Gap43, Reln
+
+>Neuron.Slc17a6
+expressed: Camk2n1, Nrgn, Cck, Tshz2, Arpp21
+
+>Microglia_Macrophages
+expressed: Hexb, Cst3, Ctss, Cx3cr1, C1qb
+

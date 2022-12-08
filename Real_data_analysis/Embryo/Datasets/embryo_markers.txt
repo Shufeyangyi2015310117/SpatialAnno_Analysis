@@ -1,0 +1,42 @@
+>Lateral plate mesoderm
+expressed: Pitx1, Cdx4, Evx1, Cdx2, Hand2, Hoxa9, Hoxc6, Hoxc9
+>Erythroid
+expressed: Slc4a1, Alas2, Klf1, Gata1, Epor, Acp5, Hemgn, Smim1
+>Allantois
+expressed: Tbx4, Pitx1, Hand1, Wnt2, Col1a1, Hand2, Msx1, Tbx3
+>Gut tube
+expressed: Cdh1, Cldn4, Foxa1, Shh, Cpn1, Krt18, Nepn, Clic6
+>Endothelium
+expressed: Cdh5, Plvap, Eng, Cd34, Cldn5, Kdr, Sox18, Pecam1
+>Haematoendothelial progenitors
+expressed: Cldn5, Sox18, Cdh5, Plvap, Cd34, Eng, Kdr, Sox7
+>Intermediate mesoderm
+expressed: Lef1, Pitx1, Evx1, Tbx3, Tbx4, Bmp4, Cdx2, Cdx4
+>Mixed mesenchymal mesoderm
+expressed: Hand1, Col1a1, Tmem108, Ahnak, Dlk1, Gata6, Postn, Smoc2
+>Spinal cord
+expressed: Hoxb9, Hoxd4, Sox2, Hoxb8, Foxb1, Hoxc6, Hoxc8, Foxa2
+>Neural crest
+expressed: Sox10, Tfap2b, Tfap2a, Nr2f1, Prrx1, Snai1, Msx1, Alx1
+>Splanchnic mesoderm
+expressed: Foxf1, Osr1, Hoxb1, Isl1, Gata5, Tbx5, Kcng1, Gata4
+>Forebrain/Midbrain/Hindbrain
+expressed: Sfrp1, Sox2, Otx2, Lfng, Nr2f1, Cdh2, Ptn, Cntfr
+>Cranial mesoderm
+expressed: Tbx1, Col26a1, Foxc2, Marcks, Tmem119, Cxcl12, Col1a2, Fst
+>Surface ectoderm
+expressed: Pdgfa, Tfap2a, Cdh1, Epcam, Cldn4, Itga3, Krt18, Gjb3
+>Definitive endoderm
+expressed: Shh, Foxa1, Foxa2, Cdh2, T, Cldn4, Irx1, Irx3
+>NMP
+expressed: Hoxb9, Hoxc8, Hoxd4, Sox2, Hoxb4, Hoxc6, Foxb1, Hoxb8
+>Anterior somitic tissues
+expressed: Meox1, Foxc2, Col26a1, Cxcl12, Snai1, Marcks, Aldh1a2, Fst
+>Presomitic mesoderm
+expressed: Meox1, Dll3, Foxc2, Dll1, Lef1, Cer1, Notch1, Mesp2
+>Dermomyotome
+expressed: Meox1, Aldh1a2, Six1, Hoxb3, Col26a1, Foxc2, Hoxb4, Fst
+>Cardiomyocytes
+expressed: Popdc2, Atp1b1, Tagln, Ttn, Smarcd3, Gata5, Tbx5, Hcn4
+>Sclerotome
+expressed: Meox1, Aldh1a2, Foxc2, Col26a1, Cxcl12, Marcks, Pdgfra, Snai1
