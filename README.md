@@ -38,10 +38,10 @@ The real data results were visualized with ggplot2 package (Real_data_results fo
 
 Brief descriptions of real data viualization  scripts:
 
-**dorsolateral_prefrontal_cortex_viualize.R**: Visualization for human dorsolateral prefrontal cortex Visium data
+**Brain12PCAcluster.R, Brain12Plot.R, Brain12Summary.R, dlpfc-bayesSpace.py, dlpfc-drsc.py, dlpfc.py**: Visualization for human dorsolateral prefrontal cortex Visium data
 
-**mouse_olfactory_bulb_viualize.R**: Visualization for mouse olfactory bulb ST data
+**MOB_visualize.R**: Visualization for mouse olfactory bulb ST data
 
-**hippocampus_viualize.R**:  Visualization for mouse olfactory bulb Slide-seqV2 data
+**DimPlotSlideSeq.R,embroChisq.R,MouseHippoPlot.R**:  Visualization for mouse olfactory bulb Slide-seqV2 data
 
-**mouse_embryo.R**: Visualization for mouse_embryo seqFISH data
+**Embryo_visualize.R**: Visualization for mouse embryo seqFISH data
