@@ -1,6 +1,6 @@
 # Analysis Code
 
-We do not upload all the folders containing inputs and intermediate outputs here due to the size limit. The complete files can be downloaded from [zenodo](https://zenodo.org/record/7413084#.Y5GiOC2d5ZI)
+We do not upload all the folders containing inputs and intermediate outputs here due to the size limit. The complete files can be downloaded from [zenodo](https://zenodo.org/record/7413084)
 
 ## Simulation 
 The simulated dataset examples were in ./Simulation/simulated_datasets folder.
